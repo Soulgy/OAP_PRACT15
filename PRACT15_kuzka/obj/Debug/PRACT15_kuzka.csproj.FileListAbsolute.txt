@@ -1,0 +1,14 @@
+C:\Users\rzcomp\Desktop\PRACT15_kuzka\PRACT15_kuzka\bin\Debug\PRACT15_kuzka.exe.config
+C:\Users\rzcomp\Desktop\PRACT15_kuzka\PRACT15_kuzka\bin\Debug\PRACT15_kuzka.exe
+C:\Users\rzcomp\Desktop\PRACT15_kuzka\PRACT15_kuzka\bin\Debug\PRACT15_kuzka.pdb
+C:\Users\rzcomp\Desktop\PRACT15_kuzka\PRACT15_kuzka\obj\Debug\PRACT15_kuzka.csproj.AssemblyReference.cache
+C:\Users\rzcomp\Desktop\PRACT15_kuzka\PRACT15_kuzka\obj\Debug\PRACT15_kuzka.csproj.SuggestedBindingRedirects.cache
+C:\Users\rzcomp\Desktop\PRACT15_kuzka\PRACT15_kuzka\obj\Debug\PRACT15_kuzka.Form1.resources
+C:\Users\rzcomp\Desktop\PRACT15_kuzka\PRACT15_kuzka\obj\Debug\PRACT15_kuzka.Properties.Resources.resources
+C:\Users\rzcomp\Desktop\PRACT15_kuzka\PRACT15_kuzka\obj\Debug\PRACT15_kuzka.csproj.GenerateResource.cache
+C:\Users\rzcomp\Desktop\PRACT15_kuzka\PRACT15_kuzka\obj\Debug\PRACT15_kuzka.csproj.CoreCompileInputs.cache
+C:\Users\rzcomp\Desktop\PRACT15_kuzka\PRACT15_kuzka\obj\Debug\PRACT15_kuzka.exe
+C:\Users\rzcomp\Desktop\PRACT15_kuzka\PRACT15_kuzka\obj\Debug\PRACT15_kuzka.pdb
+C:\Users\rzcomp\Desktop\PRACT15_kuzka\PRACT15_kuzka\bin\Debug\ClassLibrary1.dll
+C:\Users\rzcomp\Desktop\PRACT15_kuzka\PRACT15_kuzka\bin\Debug\ClassLibrary1.pdb
+C:\Users\rzcomp\Desktop\PRACT15_kuzka\PRACT15_kuzka\obj\Debug\PRACT15_kuzka.csproj.CopyComplete

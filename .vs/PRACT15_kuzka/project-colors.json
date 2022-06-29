@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "983ae8ba-fd56-4d09-93b4-8808ab568c60": {
+      "ProjectGuid": "983ae8ba-fd56-4d09-93b4-8808ab568c60",
+      "DisplayName": "PRACT15_kuzka",
+      "ColorIndex": 0
+    },
+    "890e4207-9933-4af9-a955-94057a0f45b0": {
+      "ProjectGuid": "890e4207-9933-4af9-a955-94057a0f45b0",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 1
+    },
+    "46bcc71b-a0e3-4345-908e-f3655524c50c": {
+      "ProjectGuid": "46bcc71b-a0e3-4345-908e-f3655524c50c",
+      "DisplayName": "TestProject1",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
